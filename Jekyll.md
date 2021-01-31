@@ -45,3 +45,8 @@ Dann [localhost:4000](http://localhost:4000/) öffnen.
 - [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 - [minimal-mistakes - GitHub](https://github.com/mmistakes/minimal-mistakes)
 - [mm-github-pages-starter - GitHub](https://github.com/mmistakes/mm-github-pages-starter)
+
+### Just the Docs Theme
+
+- [Homepage](https://pmarsceill.github.io/just-the-docs/)
+- [just-the-docs - GitHub](https://github.com/pmarsceill/just-the-docs)
