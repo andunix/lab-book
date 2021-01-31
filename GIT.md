@@ -58,8 +58,22 @@ Remote Branch löschen:
 git push origin --delete {BRANCH}
 ```
 
-Auf dem Server gelöschte Branches lokal löschen
+Auf dem Server gelöschte Branches lokal löschen:
 
 ```sh
 git fetch -p
+```
+
+Name und E-Mail-Adresse für **alle Repositorys** setzen (Default):
+
+```sh
+git config --global user.name '{NAME}'
+git config --global user.email '{EMAIL}'
+```
+
+Name und E-Mail-Adresse für **ein Repository** überschreiben:
+
+```sh
+git config user.name '{NAME}'
+git config user.email '{EMAIL}'
 ```
