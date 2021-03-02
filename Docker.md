@@ -13,9 +13,10 @@
 - Container auflisten
   - Laufende Container auflisten: `docker ps`
   - Auch gestoppte Container auflisten: `docker ps -a`
-- Container entfernen: `docker rm <name>`
-- Container betreten: `docker exec -it <name> bash`
-- Restart Policy ändern: `docker update --restart=unless-stopped <name>`
+- Container entfernen: `docker rm <container>`
+- Container betreten: `docker exec -it <container> bash`
+- Restart Policy ändern: `docker update --restart=unless-stopped <container>`
+- Environment anzeigen: `docker exec <container> env`
 
 ## Docker Compose
 

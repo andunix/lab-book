@@ -28,3 +28,7 @@
 
 - [Moment.js](https://momentjs.com/) ([mpn](https://www.npmjs.com/package/moment))
 - [react-moment](https://github.com/headzoo/react-moment) ([mpn](https://www.npmjs.com/package/react-moment))
+
+### Artikel
+
+- Heise: [The Art of State: Zustandsmanagement in React-Anwendungen, Teil 1](https://heise.de/-4934595) und [Teil 2](https://heise.de/-4990188)
