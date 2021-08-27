@@ -1,6 +1,6 @@
 # OpenID Connect
 
-OpenID Connect basiert auf [OAuth 2.0](OAuth.md) und [JSON Web Tokens](JOSE.md)
+OpenID Connect basiert auf [OAuth 2.0](oauth.md) und [JSON Web Tokens](jose.md)
 
 ## Artikel
 - [OAuth, OpenID Connect und JWT – wie hängt das alles zusammen? (Teil 2)](https://www.oose.de/blogpost/oauth-openid-connect-und-jwt-wie-haengt-das-alles-zusammen-teil-2/)
